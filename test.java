@@ -18,4 +18,6 @@ public class ComputeAverage {
         System.out.println("The average of " + number1 + " " + number2 + " " + number3 + " is " + average);
 
         }
+
+        System.out.println("TEST PRINT?EDIT")
 }
